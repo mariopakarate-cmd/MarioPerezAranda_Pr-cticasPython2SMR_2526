@@ -1,0 +1,1 @@
+print('Practica 1 hola que tal')
